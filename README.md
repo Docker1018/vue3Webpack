@@ -1,4 +1,5 @@
-# tsna-bgm
+# backup vue3 project
+  webpack vue3 sass typeScript fontello
 
 ## Project setup
 ```
